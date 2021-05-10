@@ -4,7 +4,7 @@
     DOMCoreBasic.js
     Original build by Luke Christopher Chulack
     05/09/2021
-    v0.1
+    v0.2
 */
 
 
